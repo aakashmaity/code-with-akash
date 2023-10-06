@@ -99,7 +99,7 @@ class Solution
         struct Node *exthead=main->next;
         struct Node *temp=exthead;
         
-        while(main!=NULL && temp!=NULL && temp->next!=NULL && main->next!=NULL){
+        while(temp!=NULL && temp->next!=NULL){
             main->next=temp->next;
             main=main->next;
             temp->next=main->next;
