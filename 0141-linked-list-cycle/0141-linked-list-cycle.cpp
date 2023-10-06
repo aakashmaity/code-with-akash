@@ -9,19 +9,19 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        if(head==NULL || head->next==NULL){
-            return false;
-        }
-        ListNode* temp=head;
-        while(temp!=NULL)
+        ListNode *fast = head;
+        ListNode *slow = head;
+        while(fast != NULL && fast ->next != NULL)
         {
-            if(temp->val==INT_MAX){
+			// cout<<slow->val<<" "<<fast->val<<endl;
+            fast = fast->next->next;
+            slow = slow->next;
+            
+			// At the point if fast and slow are at same address
+			// this means linked list has a cycle in it.
+            if(fast == slow)
                 return true;
-            }
-            temp->val=INT_MAX;
-            temp=temp->next;
         }
         return false;
-
     }
 };
