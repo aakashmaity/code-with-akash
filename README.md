@@ -1,6 +1,4 @@
 # Data-Structures-and-Algorithms-in-cpp
-<hr>
-
 ## Showcase my coding solutions
 This is very good piece of coding. This repository is in development phase and will soon provide you with c++ code of various data structures and algorithms
 <hr>
@@ -12,7 +10,6 @@ Anyone can contribute to this repositry.
 ## __Contribution Guide__
 
 ### How to contribute
-<hr> 
 -  Fork this repository
 -  Pick up an algortihm
 -  Write your code
