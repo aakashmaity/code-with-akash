@@ -1,9 +1,9 @@
 # Data-Structures-and-Algorithms-in-cpp
-## Showcase my coding solutions
+## Showcase coding solutions
 This is very good piece of coding. This repository is in development phase and will soon provide you with c++ code of various data structures and algorithms
 
 ## __Who can contribute__
-<hr>
+
 Anyone can contribute to this repositry.
 
 ## __Contribution Guide__
