@@ -19,14 +19,13 @@ public:
         }
         res+=nums[i];
         dp[i]=res;
-        cout<<dp[i]<<" ";
         return res;
     }
     int rob(vector<int>& nums) {
         int n=nums.size();
         vector<int>dp(n,-1);
         int i=0,ans=0;
-        while(i<n)
+        while(i<2)
         {
             ans=max(ans,solve(nums,i,n,dp));
             i++;
