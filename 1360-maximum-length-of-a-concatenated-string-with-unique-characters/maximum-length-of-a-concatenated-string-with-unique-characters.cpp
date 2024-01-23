@@ -1,6 +1,5 @@
 class Solution {
 public:
-    
     int check(string output)
     {
         vector<int>freq(26,0);
@@ -16,9 +15,7 @@ public:
     void solve(vector<string>& arr,int i,string output,int &ans)
     {
         if(i>=arr.size())
-        {
             return;
-        }
         
         //exclude 
         solve(arr,i+1,output,ans);
