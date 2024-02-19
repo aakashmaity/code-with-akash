@@ -8,7 +8,8 @@ public:
         {
             if(dp[n]!=-1)
             {
-                cnt+=dp[n];
+                dp[k]=dp[n]+cnt;
+                return;
             }    
             if(n&1)
                 cnt++;
