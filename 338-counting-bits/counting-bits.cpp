@@ -1,26 +1,16 @@
 class Solution {
 public:
-    void solve(int n,vector<int>&dp)
-    {
-        int cnt=0;
-        int k=n;
-        while(n)
-        {
-            if(dp[n]!=-1)
-            {
-                dp[k]=dp[n]+cnt;
-                return;
-            }    
-            if(n&1)
-                cnt++;
-            n=n>>1;
-        }
-        dp[k]=cnt;
-    }
     vector<int> countBits(int n) {
-        vector<int>dp(n+1,-1);
-        for(int i=n;i>=0;i--)
-            solve(i,dp);
-        return dp;
+        if(n==0)
+            return {0};
+        vector<int>ans(n+1);
+        ans[0]=0;
+        for(int j=1;j<=n;j++)
+        {
+            int rem = j%2;
+            int quo = j/2;
+            ans[j]=ans[quo]+rem;
+        }
+        return ans;
     }
 };
