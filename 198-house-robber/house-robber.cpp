@@ -1,23 +1,22 @@
 class Solution {
 public:
-    int rob(vector<int>& nums) {
-        int n=nums.size();
-        if(n==1)
-            return nums[0];
-        if(n==2)
-            return max(nums[0],nums[1]);
-        if(n==3)
-            return max(nums[1],nums[0]+nums[2]);
-            
-        vector<int>dp(n);
-        dp[n-1]=nums[n-1];
-        dp[n-2]=nums[n-2];
-        dp[n-3]=nums[n-3]+nums[n-1];
+    int solve(vector<int>& nums,int i,vector<int>& dp)
+    {
+        if(i>=nums.size())
+            return 0;
+        if(dp[i]!=-1)
+            return dp[i];
+        //include
+        int include = nums[i] + solve(nums,i+2,dp); 
+        //exclude
+        int skip = solve(nums,i+1,dp); 
 
-        for(int i=n-4;i>=0;i--)
-        {
-            dp[i]=nums[i]+ max(dp[i+2],dp[i+3]);
-        }
-        return max(dp[0],dp[1]);
+        dp[i] = max(include,skip);
+        return dp[i];
+    }
+    int rob(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> dp(n+1,-1);
+        return solve(nums,0,dp);
     }
 };
