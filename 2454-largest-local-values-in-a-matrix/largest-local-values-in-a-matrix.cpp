@@ -7,14 +7,11 @@ public:
         {
             for(int j=0;j<=n-3;j++)
             {
-                int maxval=-1;
-                for(int x=0;x<3;x++){
-                    for(int y=0;y<3;y++){
-                        int val = grid[i+x][j+y];
-                        maxval=max(maxval,val);
-                    }
-                }
-                maxLocal[i][j]=maxval;
+                int x = max({grid[i][j],grid[i][j+1], grid[i][j+2]});
+                int y = max({grid[i+1][j], grid[i+1][j+1], grid[i+1][j+2]});
+                int z = max({grid[i+2][j], grid[i+2][j+1], grid[i+2][j+2]});
+                
+                maxLocal[i][j]=max({x,y,z});
             }
         }
         return maxLocal;
