@@ -1,53 +1,36 @@
 class Solution {
 public:
     int maxScoreWords(vector<string>& words, vector<char>& letters, vector<int>& score) {
-        int n = words.size();
-        int res = 0;
-
-        vector<int> letters_count(26, 0);
-        for (char letter : letters) {
-            letters_count[letter - 'a']++;
+        vector<int> freqAv(26);
+        for(auto ch : letters){
+            freqAv[ch - 'a']++;
         }
-
-        unordered_map<string, int> words_scores;
-        for (const string& word : words) {
-            int s = 0;
-            for (char ch : word) {
-                s += score[ch - 'a'];
+        int maxScore = 0;
+        vector<int> currSubNeeds(26);
+        int size = words.size();
+        for(int indxMask = 1; indxMask < (1 << size); indxMask++){
+            currSubNeeds.assign(26, 0);
+            for(int indx = 0; indx < size; indx++){
+                if((indxMask & (1 << indx)) != 0){
+                    string &currWrd = words[indx];
+                    for(auto chr : currWrd){
+                        currSubNeeds[chr - 'a']++;
+                    }
+                }
             }
-            words_scores[word] = s;
-        }
-
-        function<void(int, int)> recursion = [&](int cur_ind, int cur_score) {
-            if (cur_ind == n) {
-                res = max(res, cur_score);
-                return;
-            }
-
-            bool can_add_this_word = true;
-            const string& word = words[cur_ind];
-            vector<int> word_count(26, 0);
-            for (char ch : word) {
-                word_count[ch - 'a']++;
-                if (word_count[ch - 'a'] > letters_count[ch - 'a']) {
-                    can_add_this_word = false;
+            bool notPos = false;
+            int scoreTotal = 0;
+            for(int indx = 0; indx < 26; indx++){
+                if(currSubNeeds[indx] > freqAv[indx]){
+                    notPos = true;
                     break;
+                }else{
+                    scoreTotal += score[indx] * currSubNeeds[indx];
                 }
             }
-
-            if (can_add_this_word) {
-                for (int i = 0; i < 26; i++) {
-                    letters_count[i] -= word_count[i];
-                }
-                recursion(cur_ind + 1, cur_score + words_scores[word]);
-                for (int i = 0; i < 26; i++) {
-                    letters_count[i] += word_count[i];
-                }
-            }
-            recursion(cur_ind + 1, cur_score);
-        };
-
-        recursion(0, 0);
-        return res;
+            if(!notPos)
+                maxScore = max(maxScore, scoreTotal);
+        }
+        return maxScore;
     }
 };
