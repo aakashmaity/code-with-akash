@@ -14,10 +14,10 @@ public:
             {
                 string tempSentence = currSentence;
 
-                if(!currSentence.empty()){
+                if(currSentence.length()){
                     currSentence += " ";
                 }
-                
+
                 currSentence += tempWord;   // take word
                 solve(j+1,s,currSentence);  // explore
                 currSentence = tempSentence;  // removed tempWord;
@@ -30,7 +30,7 @@ public:
         for(string &str : wordDict){
             dict.insert(str);
         }
-        string currSentence = "";
+        string currSentence;
         solve(0,s,currSentence);
         return ans;
     }
