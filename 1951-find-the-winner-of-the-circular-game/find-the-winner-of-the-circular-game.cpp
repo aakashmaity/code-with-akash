@@ -1,19 +1,25 @@
 class Solution {
 public:
+    // void print_queue(queue<int> q) {
+    //     queue<int> temp = q;
+    //     while (!temp.empty()) {
+    //         cout << temp.front() << " ";
+    //         temp.pop();
+    //     }
+    //     cout<<endl;
+    // }
     int findTheWinner(int n, int k) {
-        vector<int> arr;
+        queue<int> q;
         for (int i = 1; i <= n; i++) {
-            arr.push_back(i);
+            q.push(i);
         }
-
-        int i = 0;
-        while (arr.size() > 1) {
-            int idxToDelete = (i + k - 1) % arr.size();
-
-            arr.erase(arr.begin() + idxToDelete);
-
-            i = idxToDelete;
+        while (q.size() > 1) {
+            for (int i = 1; i <= k - 1; i++) {
+                q.push(q.front());
+                q.pop();
+            }
+            q.pop();
         }
-        return arr[0];
+        return q.front();
     }
 };
