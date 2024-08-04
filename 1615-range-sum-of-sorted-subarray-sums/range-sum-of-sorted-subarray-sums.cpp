@@ -4,7 +4,8 @@ public:
     int MOD = 1e9+7;
 
     int rangeSum(vector<int>& nums, int n, int left, int right) {
-        priority_queue< P, vector<P> , greater<P> > pq;
+        // M
+        priority_queue< P, vector<P> , greater<P> > pq;  // Min Heap
         
         for(int i=0;i<n;i++){
             pq.push({nums[i],i});
