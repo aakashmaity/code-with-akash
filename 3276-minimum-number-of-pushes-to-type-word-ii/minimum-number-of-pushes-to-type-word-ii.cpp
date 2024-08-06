@@ -1,25 +1,26 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        unordered_map<char,int>mp;
-        vector<int>v;
-        for(auto i: word)
-            mp[i]++;
-        for(auto i:mp)
-            v.push_back(i.second);
-        sort(v.begin(),v.end(),greater<int>());
+        vector<int> freq(27,0);
+        for(char ch : word){
+            freq[ch - 'a']++;
+        }
+        sort(begin(freq),end(freq), greater<int>());
+
         int ans=0;
-        int k=1;
-        int cnt=1;
-        for(int i=0;i<v.size();i++)
-        {
-            if(cnt>8){
-                cnt=1;
-                k++;
+        int level=1,count=1;
+
+        int i=0;
+        while(freq[i] != 0){
+            if(count > 8){   // 2 to 9 mapping
+                count = 1;
+                level++;
             }
-            ans+=v[i]*k;
-            cnt++;
-        }     
+            ans += freq[i]*level;
+            count++;
+            i++;
+        }
         return ans;
+
     }
 };
