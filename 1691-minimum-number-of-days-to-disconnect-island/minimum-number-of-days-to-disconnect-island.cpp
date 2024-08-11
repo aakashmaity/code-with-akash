@@ -56,3 +56,13 @@ public:
         return 2;  // day - making 2 changes (seperate corner element) 
     }
 };
+
+
+// 1 1 1 1    0 1 1 1 
+// 1 0 0 0 -> 1 0 0 0  --> now disconnected (1 changes)
+// 0 0 0 0    0 0 0 0
+
+
+// 0 1 1 1    0 1 1 1 
+// 0 1 1 1 -> 0 1 1 0  --> now disconnected (2 changes) -- disconnect the corner island 
+// 0 1 1 1    0 1 0 1
