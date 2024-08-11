@@ -1,52 +1,44 @@
 class Solution {
 public:
-    vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        int rows = matrix.size();
-        int cols = matrix[0].size();
+    int n,m;
+    vector<int>ans;
 
-        int strow=0;
-        int stcol=0;
-        int endrow=rows-1;
-        int endcol=cols-1;
-
-        int cnt=1;
-        int total=rows*cols;
-        vector<int> ans;
-
-        while(cnt<=total)
-        {
-            //starting row
-            for(int i=stcol;i<=endcol && cnt<=total;i++)
-            {
-                ans.push_back(matrix[strow][i]);
-                cnt++;
-            }
-            strow++;
-
-            //ending col
-            for(int i=strow;i<=endrow && cnt<=total;i++)
-            {
-                ans.push_back(matrix[i][endcol]);
-                cnt++;
-            }
-            endcol--;
-
-            //ending row
-            for(int i=endcol;i>=stcol && cnt<=total;i--)
-            {
-                ans.push_back(matrix[endrow][i]);
-                cnt++;
-            }
-            endrow--;
-
-            //starting col
-            for(int i=endrow;i>=strow && cnt<=total;i--)
-            {
-                ans.push_back(matrix[i][stcol]);
-                cnt++;
-            }
-            stcol++;
+    void solve(vector<vector<int>>& matrix, int top, int right, int bottom, int left){
+        if(ans.size() >= n*m ){
+            return;
         }
-        return ans;
+        
+        // traverse right
+        for(int i=left;i<=right && ans.size() < m*n;i++){
+            ans.push_back(matrix[top][i]);
+        }
+        top++;
+
+        // traverse down
+        for(int i=top;i<=bottom && ans.size() < m*n;i++){
+            ans.push_back(matrix[i][right]);
+        }
+        right--;
+
+        // traverse left
+        for(int i=right;i>=left && ans.size() < m*n;i--){
+            ans.push_back(matrix[bottom][i]);
+        }
+        bottom--;
+
+        // traverse up
+        for(int i=bottom;i>=top && ans.size() < m*n;i--){
+            ans.push_back(matrix[i][left]);
+        }
+        left++;
+
+        solve(matrix,top,right,bottom,left);
+    }
+    vector<int> spiralOrder(vector<vector<int>>& matrix) {
+        n = matrix.size();
+        m = matrix[0].size();
+
+        solve(matrix,0,m-1,n-1,0);
+        return ans;     
     }
 };
