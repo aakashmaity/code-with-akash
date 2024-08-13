@@ -17,6 +17,10 @@ public:
                 continue;
             }
 
+            if(candidates[i] > target){
+                break;
+            }
+
             int num = candidates[i];
             temp.push_back(num);  // add-Do
             backtracking(candidates, temp,i+1,target - num);  // Explore
