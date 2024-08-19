@@ -1,21 +1,21 @@
 class Solution {
 public:
     int N;
-    int ans = INT_MAX;
-    void solve(int currA, int clickBoard, int res){
+    int solve(int currA, int clickBoard){
         if(currA == N){
-            ans = min(ans,res);
+            return 0;
         }
         if(currA > N){
-            return;
+            return 100000;
         }
 
         // copyAll and paste
-        solve(currA + currA , currA, res+2);
+        int copyPaste = 1 + 1 + solve(currA + currA , currA);
     
         // paste
-        solve(currA + clickBoard, clickBoard, res+1);
+        int paste = 1 + solve(currA + clickBoard, clickBoard);
 
+        return min(copyPaste,paste);
     }
     
     int minSteps(int n) {
@@ -25,7 +25,7 @@ public:
         N=n;
         int currA = 1;
         int clickBoard = 1;
-        solve(currA,clickBoard,1);
-        return ans;
+        
+        return 1 + solve(currA,clickBoard);;
     }
 };
