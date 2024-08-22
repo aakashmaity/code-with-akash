@@ -6,7 +6,7 @@ public:
         int ans=0;
         while(num){
             int bit = num&1; // extract bit
-            int flip = bit^1;  // change it XOR 0^1 = 1 || 1^1 = 0
+            int flip = bit^1;  // flip it using XOR 0^1 = 1 || 1^1 = 0
             ans += flip*pow(2,i++);  // change to decimal
             num=num>>1;
         }
