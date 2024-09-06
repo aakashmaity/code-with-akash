@@ -1,24 +1,30 @@
 class Solution {
 public:
     vector<int> missingRolls(vector<int>& rolls, int mean, int n) {
-        int nNumsSum = 0;
-        for(int i : rolls) nNumsSum += i;
+        int m = rolls.size();
 
-        int m=rolls.size();
-        int totalLength = n+m;
+        int sum=0;
+        for(int e : rolls){
+            sum+=e;
+        }
 
-        int mNumsSum = mean*totalLength - nNumsSum;     // formula to Find mean -> (nNumsSum + X) / (n+m) = mean
-                                                        // So, X = mean * (n+m) - nNumsSum;
+        int totalSum = mean * (m+n);
+        int missingSum = totalSum - sum;
 
-        if(n*6 < mNumsSum || mNumsSum<n) return {};     // for (n*6 < mNumsSum) see Constraints
         
-        int rem = mNumsSum % n;
-        int q   = mNumsSum / n;
+        if(missingSum > 6*n || missingSum < n){
+            return {};
+        }
 
-        vector<int> res(n,q);
-        for(int i=1; i<=rem; i++)
-            res[i]++;
-
-        return res;
+        vector<int>ans;
+        while(missingSum && n>=1){
+            int neww = min(6,missingSum - n + 1);
+            ans.push_back(neww);
+            
+            missingSum -= neww;
+            n--; 
+        }
+        return ans;
+        
     }
 };
