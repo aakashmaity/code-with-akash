@@ -1,25 +1,28 @@
 class Solution {
 public:
     string largestNumber(vector<int>& nums) {
+        vector<string> arr;
+        for(int a: nums){
+            string s = to_string(a);
+            arr.push_back(s);
+        }
 
-        auto lambda = [&](int& a, int& b){
-            string num1 = to_string(a);
-            string num2 = to_string(b);
-            if(num1+num2 > num2+num1){
+        auto lambda = [&](string a, string b){
+            if(a+b > b+a){
                 return true;
             }
             return false;
         };
 
-        sort(begin(nums),end(nums), lambda);
-        
-        if(nums[0] == 0){
+        sort(begin(arr),end(arr), lambda);
+
+        if(arr[0] == "0"){
             return "0";
         }
 
         string ans = "";
-        for(auto a: nums){
-            ans += to_string(a);
+        for(auto a: arr){
+            ans += a;
         }
 
         return ans;
