@@ -9,8 +9,11 @@ public:
         if(dp[i] != -1){
             return dp[i];
         }
+
+        
         // dont take
         int dont = solve(i+1,nums,dp);
+        // take
         int take = nums[i] + solve(i+2,nums,dp);
 
         return dp[i] = max(dont,take);
