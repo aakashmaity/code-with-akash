@@ -1,15 +1,22 @@
 class Solution {
 public:
-    int rob(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> v (n+1,0);
-        v[1]=nums[0];
-        for(int i=2;i<=n;i++)
-        {
-            int steal = nums[i-1]+ v[i-2];
-            int skip = v[i-1];
-            v[i] = max(steal,skip);
+    int dp[101];
+    int solve(int i, vector<int> &nums,int dp[]){
+        if(i >= nums.size()){
+            return 0;
         }
-        return v[n];
+
+        if(dp[i] != -1){
+            return dp[i];
+        }
+        // dont take
+        int dont = solve(i+1,nums,dp);
+        int take = nums[i] + solve(i+2,nums,dp);
+
+        return dp[i] = max(dont,take);
+    }
+    int rob(vector<int>& nums) {
+        memset(dp,-1,sizeof(dp));
+        return solve(0,nums,dp);
     }
 };
