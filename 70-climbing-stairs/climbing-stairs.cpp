@@ -1,20 +1,23 @@
 class Solution {
 public:
-    int solve(int n,vector<int> &dp)
-    {
-            
-        if(n==0 || n==1)
-        {
+    int solve(int curr,int dp[]){
+        if(curr == 0){
             return 1;
         }
-        if(dp[n]!=-1)
-            return dp[n];
+        if(curr < 0){
+            return 0;
+        }
+        if(dp[curr] != -1){
+            return dp[curr];
+        }
 
-        dp[n]=solve(n-1,dp)+solve(n-2,dp);
-        return dp[n];
+        int ways = solve(curr-1,dp) + solve(curr-2,dp);
+        
+        return dp[curr] = ways;
     }
     int climbStairs(int n) {
-        vector<int>dp(n+1,-1);
+        int dp[n+1];
+        memset(dp,-1,sizeof(dp));
         
         return solve(n,dp);
     }
