@@ -25,3 +25,15 @@ Create a folder for the topic you wish to contribute in and add the respective f
 -  Code should be properly commented so as to ensure it's readability.
 -  If you've added code that should be tested, add tests as comments.
 -  Make sure your code is properly formatted.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/aakashmaity/code-with-akash/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/aakashmaity/code-with-akash/tree/master/2802-find-the-punishment-number-of-an-integer) |
+<!---LeetCode Topics End-->
