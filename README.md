@@ -40,6 +40,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/aakashmaity/code-with-akash/tree/master/0837-most-common-word) |
+| [3194-find-words-containing-character](https://github.com/aakashmaity/code-with-akash/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/aakashmaity/code-with-akash/tree/master/0837-most-common-word) |
+| [3194-find-words-containing-character](https://github.com/aakashmaity/code-with-akash/tree/master/3194-find-words-containing-character) |
 ## Counting
 |  |
 | ------- |
