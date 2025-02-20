@@ -35,20 +35,24 @@ Create a folder for the topic you wish to contribute in and add the respective f
 ## Backtracking
 |  |
 | ------- |
+| [2107-find-unique-binary-string](https://github.com/aakashmaity/code-with-akash/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/aakashmaity/code-with-akash/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Array
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/aakashmaity/code-with-akash/tree/master/0837-most-common-word) |
+| [2107-find-unique-binary-string](https://github.com/aakashmaity/code-with-akash/tree/master/2107-find-unique-binary-string) |
 | [3194-find-words-containing-character](https://github.com/aakashmaity/code-with-akash/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/aakashmaity/code-with-akash/tree/master/0837-most-common-word) |
+| [2107-find-unique-binary-string](https://github.com/aakashmaity/code-with-akash/tree/master/2107-find-unique-binary-string) |
 ## String
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/aakashmaity/code-with-akash/tree/master/0837-most-common-word) |
+| [2107-find-unique-binary-string](https://github.com/aakashmaity/code-with-akash/tree/master/2107-find-unique-binary-string) |
 | [3194-find-words-containing-character](https://github.com/aakashmaity/code-with-akash/tree/master/3194-find-words-containing-character) |
 ## Counting
 |  |
