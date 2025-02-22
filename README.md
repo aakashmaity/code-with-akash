@@ -44,6 +44,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [2107-find-unique-binary-string](https://github.com/aakashmaity/code-with-akash/tree/master/2107-find-unique-binary-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/aakashmaity/code-with-akash/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/aakashmaity/code-with-akash/tree/master/3194-find-words-containing-character) |
+| [3533-snake-in-matrix](https://github.com/aakashmaity/code-with-akash/tree/master/3533-snake-in-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [2107-find-unique-binary-string](https://github.com/aakashmaity/code-with-akash/tree/master/2107-find-unique-binary-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/aakashmaity/code-with-akash/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/aakashmaity/code-with-akash/tree/master/3194-find-words-containing-character) |
+| [3533-snake-in-matrix](https://github.com/aakashmaity/code-with-akash/tree/master/3533-snake-in-matrix) |
 ## Counting
 |  |
 | ------- |
@@ -81,4 +83,8 @@ Create a folder for the topic you wish to contribute in and add the respective f
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aakashmaity/code-with-akash/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [3533-snake-in-matrix](https://github.com/aakashmaity/code-with-akash/tree/master/3533-snake-in-matrix) |
 <!---LeetCode Topics End-->
