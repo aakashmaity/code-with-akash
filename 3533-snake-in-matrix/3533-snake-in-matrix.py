@@ -11,4 +11,5 @@ class Solution:
                 row -= 1
             else:
                 row += 1
+                
         return (row * n) + col
