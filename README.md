@@ -40,6 +40,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/aakashmaity/code-with-akash/tree/master/0217-contains-duplicate) |
 | [0837-most-common-word](https://github.com/aakashmaity/code-with-akash/tree/master/0837-most-common-word) |
 | [2107-find-unique-binary-string](https://github.com/aakashmaity/code-with-akash/tree/master/2107-find-unique-binary-string) |
 | [2881-split-strings-by-separator](https://github.com/aakashmaity/code-with-akash/tree/master/2881-split-strings-by-separator) |
@@ -50,6 +51,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/aakashmaity/code-with-akash/tree/master/0217-contains-duplicate) |
 | [0837-most-common-word](https://github.com/aakashmaity/code-with-akash/tree/master/0837-most-common-word) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aakashmaity/code-with-akash/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/aakashmaity/code-with-akash/tree/master/2107-find-unique-binary-string) |
@@ -99,4 +101,8 @@ Create a folder for the topic you wish to contribute in and add the respective f
 |  |
 | ------- |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aakashmaity/code-with-akash/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/aakashmaity/code-with-akash/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
