@@ -41,6 +41,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/aakashmaity/code-with-akash/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/aakashmaity/code-with-akash/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aakashmaity/code-with-akash/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aakashmaity/code-with-akash/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -118,5 +119,6 @@ Create a folder for the topic you wish to contribute in and add the respective f
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/aakashmaity/code-with-akash/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/aakashmaity/code-with-akash/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
