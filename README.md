@@ -31,6 +31,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/aakashmaity/code-with-akash/tree/master/0268-missing-number) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/aakashmaity/code-with-akash/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Backtracking
 |  |
@@ -41,6 +42,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/aakashmaity/code-with-akash/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/aakashmaity/code-with-akash/tree/master/0268-missing-number) |
 | [0837-most-common-word](https://github.com/aakashmaity/code-with-akash/tree/master/0837-most-common-word) |
 | [2107-find-unique-binary-string](https://github.com/aakashmaity/code-with-akash/tree/master/2107-find-unique-binary-string) |
 | [2881-split-strings-by-separator](https://github.com/aakashmaity/code-with-akash/tree/master/2881-split-strings-by-separator) |
@@ -52,6 +54,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/aakashmaity/code-with-akash/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/aakashmaity/code-with-akash/tree/master/0268-missing-number) |
 | [0837-most-common-word](https://github.com/aakashmaity/code-with-akash/tree/master/0837-most-common-word) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aakashmaity/code-with-akash/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/aakashmaity/code-with-akash/tree/master/2107-find-unique-binary-string) |
@@ -105,4 +108,13 @@ Create a folder for the topic you wish to contribute in and add the respective f
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/aakashmaity/code-with-akash/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/aakashmaity/code-with-akash/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aakashmaity/code-with-akash/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aakashmaity/code-with-akash/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
