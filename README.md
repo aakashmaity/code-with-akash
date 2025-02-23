@@ -44,6 +44,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [0136-single-number](https://github.com/aakashmaity/code-with-akash/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/aakashmaity/code-with-akash/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aakashmaity/code-with-akash/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/aakashmaity/code-with-akash/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aakashmaity/code-with-akash/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0837-most-common-word](https://github.com/aakashmaity/code-with-akash/tree/master/0837-most-common-word) |
 | [2107-find-unique-binary-string](https://github.com/aakashmaity/code-with-akash/tree/master/2107-find-unique-binary-string) |
@@ -127,4 +128,8 @@ Create a folder for the topic you wish to contribute in and add the respective f
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aakashmaity/code-with-akash/tree/master/2132-convert-1d-array-into-2d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/aakashmaity/code-with-akash/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
