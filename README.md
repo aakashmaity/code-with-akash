@@ -31,6 +31,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aakashmaity/code-with-akash/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/aakashmaity/code-with-akash/tree/master/0268-missing-number) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/aakashmaity/code-with-akash/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Backtracking
@@ -105,6 +106,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aakashmaity/code-with-akash/tree/master/0070-climbing-stairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aakashmaity/code-with-akash/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
 |  |
@@ -132,4 +134,8 @@ Create a folder for the topic you wish to contribute in and add the respective f
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/aakashmaity/code-with-akash/tree/master/0283-move-zeroes) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aakashmaity/code-with-akash/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
