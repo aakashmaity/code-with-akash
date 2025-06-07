@@ -20,6 +20,7 @@ class Solution:
 
         while (len(q)):
             top = q[0]
+            q.pop(0)
             result.append(top.val)
             
             if top.left:
@@ -27,5 +28,5 @@ class Solution:
             if top.right:
                 q.append(top.right)
 
-            q.pop(0)
+            
         return len(result)
