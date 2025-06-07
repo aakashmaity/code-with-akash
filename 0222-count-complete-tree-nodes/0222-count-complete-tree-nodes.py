@@ -27,6 +27,5 @@ class Solution:
                 q.append(top.left)
             if top.right:
                 q.append(top.right)
-
-            
+ 
         return len(result)
