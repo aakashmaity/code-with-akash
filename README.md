@@ -127,6 +127,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/aakashmaity/code-with-akash/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/aakashmaity/code-with-akash/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/aakashmaity/code-with-akash/tree/master/0278-first-bad-version) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -150,4 +151,8 @@ Create a folder for the topic you wish to contribute in and add the respective f
 |  |
 | ------- |
 | [2035-count-sub-islands](https://github.com/aakashmaity/code-with-akash/tree/master/2035-count-sub-islands) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/aakashmaity/code-with-akash/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
