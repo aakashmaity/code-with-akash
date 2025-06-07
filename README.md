@@ -130,6 +130,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [0268-missing-number](https://github.com/aakashmaity/code-with-akash/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/aakashmaity/code-with-akash/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/aakashmaity/code-with-akash/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/aakashmaity/code-with-akash/tree/master/0374-guess-number-higher-or-lower) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -157,4 +158,5 @@ Create a folder for the topic you wish to contribute in and add the respective f
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/aakashmaity/code-with-akash/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/aakashmaity/code-with-akash/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
