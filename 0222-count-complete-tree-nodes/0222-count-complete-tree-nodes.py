@@ -29,4 +29,3 @@ class Solution:
 
             q.pop(0)
         return len(result)
-        # print(result)
