@@ -82,6 +82,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/aakashmaity/code-with-akash/tree/master/0222-count-complete-tree-nodes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aakashmaity/code-with-akash/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
@@ -100,6 +101,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/aakashmaity/code-with-akash/tree/master/0222-count-complete-tree-nodes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aakashmaity/code-with-akash/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Simulation
 |  |
@@ -123,11 +125,13 @@ Create a folder for the topic you wish to contribute in and add the respective f
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/aakashmaity/code-with-akash/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/aakashmaity/code-with-akash/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aakashmaity/code-with-akash/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/aakashmaity/code-with-akash/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/aakashmaity/code-with-akash/tree/master/0268-missing-number) |
 ## Matrix
 |  |
