@@ -89,6 +89,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/aakashmaity/code-with-akash/tree/master/0386-lexicographical-numbers) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aakashmaity/code-with-akash/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2035-count-sub-islands](https://github.com/aakashmaity/code-with-akash/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
@@ -161,4 +162,8 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | ------- |
 | [0278-first-bad-version](https://github.com/aakashmaity/code-with-akash/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/aakashmaity/code-with-akash/tree/master/0374-guess-number-higher-or-lower) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/aakashmaity/code-with-akash/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
