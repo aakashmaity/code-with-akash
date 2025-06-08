@@ -34,6 +34,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [0070-climbing-stairs](https://github.com/aakashmaity/code-with-akash/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/aakashmaity/code-with-akash/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/aakashmaity/code-with-akash/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/aakashmaity/code-with-akash/tree/master/0441-arranging-coins) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/aakashmaity/code-with-akash/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Backtracking
 |  |
@@ -131,6 +132,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [0278-first-bad-version](https://github.com/aakashmaity/code-with-akash/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/aakashmaity/code-with-akash/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/aakashmaity/code-with-akash/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/aakashmaity/code-with-akash/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
 | ------- |
