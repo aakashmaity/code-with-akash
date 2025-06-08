@@ -7,7 +7,7 @@ class Solution:
             totalCoins = mid*(mid+1)//2
             if(totalCoins == n):
                 return mid
-            if(totalCoins > n):
+            elif(totalCoins > n):
                 e = mid - 1
             else:
                 s = mid + 1
