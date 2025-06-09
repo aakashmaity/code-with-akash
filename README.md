@@ -166,4 +166,5 @@ Create a folder for the topic you wish to contribute in and add the respective f
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/aakashmaity/code-with-akash/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/aakashmaity/code-with-akash/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
