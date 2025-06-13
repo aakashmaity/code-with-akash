@@ -2,10 +2,7 @@ class Solution:
     def maxAdjacentDistance(self, nums: List[int]) -> int:
         n = len(nums)
         maxDiff = -1
-        for i in range(1,n):
-            diff = abs(nums[i-1] - nums[i])
+        for i in range(n):
+            diff = abs(nums[i] - nums[(i+1) % n])
             maxDiff = max(diff, maxDiff)
-        
-        diff = abs(nums[0] - nums[n-1])
-        maxDiff = max(diff, maxDiff)
         return maxDiff
