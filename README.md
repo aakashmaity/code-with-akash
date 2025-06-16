@@ -54,6 +54,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [2035-count-sub-islands](https://github.com/aakashmaity/code-with-akash/tree/master/2035-count-sub-islands) |
 | [2107-find-unique-binary-string](https://github.com/aakashmaity/code-with-akash/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aakashmaity/code-with-akash/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/aakashmaity/code-with-akash/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/aakashmaity/code-with-akash/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2881-split-strings-by-separator](https://github.com/aakashmaity/code-with-akash/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/aakashmaity/code-with-akash/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
