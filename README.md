@@ -37,6 +37,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [0441-arranging-coins](https://github.com/aakashmaity/code-with-akash/tree/master/0441-arranging-coins) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/aakashmaity/code-with-akash/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/aakashmaity/code-with-akash/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/aakashmaity/code-with-akash/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -177,4 +178,8 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/aakashmaity/code-with-akash/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/aakashmaity/code-with-akash/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Combinatorics
+|  |
+| ------- |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/aakashmaity/code-with-akash/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
