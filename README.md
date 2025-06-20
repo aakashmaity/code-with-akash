@@ -38,6 +38,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/aakashmaity/code-with-akash/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/aakashmaity/code-with-akash/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/aakashmaity/code-with-akash/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aakashmaity/code-with-akash/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Backtracking
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aakashmaity/code-with-akash/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/aakashmaity/code-with-akash/tree/master/2107-find-unique-binary-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aakashmaity/code-with-akash/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aakashmaity/code-with-akash/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
 | ------- |
@@ -86,11 +88,13 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [3194-find-words-containing-character](https://github.com/aakashmaity/code-with-akash/tree/master/3194-find-words-containing-character) |
 | [3533-snake-in-matrix](https://github.com/aakashmaity/code-with-akash/tree/master/3533-snake-in-matrix) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aakashmaity/code-with-akash/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aakashmaity/code-with-akash/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/aakashmaity/code-with-akash/tree/master/0837-most-common-word) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aakashmaity/code-with-akash/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aakashmaity/code-with-akash/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Tree
 |  |
 | ------- |
