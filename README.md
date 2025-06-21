@@ -75,6 +75,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [0837-most-common-word](https://github.com/aakashmaity/code-with-akash/tree/master/0837-most-common-word) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aakashmaity/code-with-akash/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/aakashmaity/code-with-akash/tree/master/2107-find-unique-binary-string) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/aakashmaity/code-with-akash/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aakashmaity/code-with-akash/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aakashmaity/code-with-akash/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
@@ -86,6 +87,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/aakashmaity/code-with-akash/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aakashmaity/code-with-akash/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/aakashmaity/code-with-akash/tree/master/3194-find-words-containing-character) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/aakashmaity/code-with-akash/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3533-snake-in-matrix](https://github.com/aakashmaity/code-with-akash/tree/master/3533-snake-in-matrix) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aakashmaity/code-with-akash/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aakashmaity/code-with-akash/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -93,6 +95,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/aakashmaity/code-with-akash/tree/master/0837-most-common-word) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/aakashmaity/code-with-akash/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aakashmaity/code-with-akash/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aakashmaity/code-with-akash/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Tree
@@ -138,6 +141,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/aakashmaity/code-with-akash/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aakashmaity/code-with-akash/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aakashmaity/code-with-akash/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/aakashmaity/code-with-akash/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Sorting
 |  |
 | ------- |
@@ -145,6 +149,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [0268-missing-number](https://github.com/aakashmaity/code-with-akash/tree/master/0268-missing-number) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/aakashmaity/code-with-akash/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aakashmaity/code-with-akash/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/aakashmaity/code-with-akash/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Binary Search
 |  |
 | ------- |
