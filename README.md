@@ -58,6 +58,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [2107-find-unique-binary-string](https://github.com/aakashmaity/code-with-akash/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aakashmaity/code-with-akash/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/aakashmaity/code-with-akash/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/aakashmaity/code-with-akash/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/aakashmaity/code-with-akash/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/aakashmaity/code-with-akash/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2881-split-strings-by-separator](https://github.com/aakashmaity/code-with-akash/tree/master/2881-split-strings-by-separator) |
@@ -178,6 +179,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/aakashmaity/code-with-akash/tree/master/0283-move-zeroes) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/aakashmaity/code-with-akash/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Memoization
 |  |
 | ------- |
