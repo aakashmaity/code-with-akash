@@ -58,6 +58,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [2107-find-unique-binary-string](https://github.com/aakashmaity/code-with-akash/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aakashmaity/code-with-akash/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/aakashmaity/code-with-akash/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/aakashmaity/code-with-akash/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/aakashmaity/code-with-akash/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/aakashmaity/code-with-akash/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/aakashmaity/code-with-akash/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -163,6 +164,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [0367-valid-perfect-square](https://github.com/aakashmaity/code-with-akash/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/aakashmaity/code-with-akash/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/aakashmaity/code-with-akash/tree/master/0441-arranging-coins) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/aakashmaity/code-with-akash/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/aakashmaity/code-with-akash/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Bit Manipulation
 |  |
