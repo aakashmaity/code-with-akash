@@ -87,6 +87,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [0837-most-common-word](https://github.com/aakashmaity/code-with-akash/tree/master/0837-most-common-word) |
 | [2107-find-unique-binary-string](https://github.com/aakashmaity/code-with-akash/tree/master/2107-find-unique-binary-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/aakashmaity/code-with-akash/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/aakashmaity/code-with-akash/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2881-split-strings-by-separator](https://github.com/aakashmaity/code-with-akash/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/aakashmaity/code-with-akash/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aakashmaity/code-with-akash/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -137,11 +138,13 @@ Create a folder for the topic you wish to contribute in and add the respective f
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aakashmaity/code-with-akash/tree/master/0070-climbing-stairs) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/aakashmaity/code-with-akash/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aakashmaity/code-with-akash/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
 |  |
 | ------- |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/aakashmaity/code-with-akash/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/aakashmaity/code-with-akash/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/aakashmaity/code-with-akash/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/aakashmaity/code-with-akash/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aakashmaity/code-with-akash/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -186,6 +189,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aakashmaity/code-with-akash/tree/master/0070-climbing-stairs) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/aakashmaity/code-with-akash/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Union Find
 |  |
 | ------- |
