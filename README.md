@@ -44,6 +44,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/aakashmaity/code-with-akash/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/aakashmaity/code-with-akash/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/aakashmaity/code-with-akash/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Array
 |  |
@@ -86,6 +87,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | ------- |
 | [0837-most-common-word](https://github.com/aakashmaity/code-with-akash/tree/master/0837-most-common-word) |
 | [2107-find-unique-binary-string](https://github.com/aakashmaity/code-with-akash/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/aakashmaity/code-with-akash/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/aakashmaity/code-with-akash/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/aakashmaity/code-with-akash/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2881-split-strings-by-separator](https://github.com/aakashmaity/code-with-akash/tree/master/2881-split-strings-by-separator) |
@@ -100,6 +102,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/aakashmaity/code-with-akash/tree/master/0837-most-common-word) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/aakashmaity/code-with-akash/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/aakashmaity/code-with-akash/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aakashmaity/code-with-akash/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aakashmaity/code-with-akash/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -143,6 +146,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 ## Greedy
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/aakashmaity/code-with-akash/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/aakashmaity/code-with-akash/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/aakashmaity/code-with-akash/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/aakashmaity/code-with-akash/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -211,5 +215,6 @@ Create a folder for the topic you wish to contribute in and add the respective f
 ## Enumeration
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/aakashmaity/code-with-akash/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/aakashmaity/code-with-akash/tree/master/2202-sum-of-k-mirror-numbers) |
 <!---LeetCode Topics End-->
