@@ -55,6 +55,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [0283-move-zeroes](https://github.com/aakashmaity/code-with-akash/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aakashmaity/code-with-akash/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0837-most-common-word](https://github.com/aakashmaity/code-with-akash/tree/master/0837-most-common-word) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aakashmaity/code-with-akash/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2035-count-sub-islands](https://github.com/aakashmaity/code-with-akash/tree/master/2035-count-sub-islands) |
 | [2107-find-unique-binary-string](https://github.com/aakashmaity/code-with-akash/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aakashmaity/code-with-akash/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -161,6 +162,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | ------- |
 | [0217-contains-duplicate](https://github.com/aakashmaity/code-with-akash/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aakashmaity/code-with-akash/tree/master/0268-missing-number) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aakashmaity/code-with-akash/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aakashmaity/code-with-akash/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/aakashmaity/code-with-akash/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aakashmaity/code-with-akash/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -174,6 +176,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [0367-valid-perfect-square](https://github.com/aakashmaity/code-with-akash/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/aakashmaity/code-with-akash/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/aakashmaity/code-with-akash/tree/master/0441-arranging-coins) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aakashmaity/code-with-akash/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/aakashmaity/code-with-akash/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/aakashmaity/code-with-akash/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Bit Manipulation
@@ -191,6 +194,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/aakashmaity/code-with-akash/tree/master/0283-move-zeroes) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aakashmaity/code-with-akash/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/aakashmaity/code-with-akash/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Memoization
 |  |
