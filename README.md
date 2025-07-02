@@ -102,6 +102,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/aakashmaity/code-with-akash/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3533-snake-in-matrix](https://github.com/aakashmaity/code-with-akash/tree/master/3533-snake-in-matrix) |
 | [3617-find-the-original-typed-string-i](https://github.com/aakashmaity/code-with-akash/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/aakashmaity/code-with-akash/tree/master/3618-find-the-original-typed-string-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aakashmaity/code-with-akash/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aakashmaity/code-with-akash/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
@@ -150,6 +151,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [0070-climbing-stairs](https://github.com/aakashmaity/code-with-akash/tree/master/0070-climbing-stairs) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/aakashmaity/code-with-akash/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aakashmaity/code-with-akash/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/aakashmaity/code-with-akash/tree/master/3618-find-the-original-typed-string-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -237,4 +239,8 @@ Create a folder for the topic you wish to contribute in and add the respective f
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/aakashmaity/code-with-akash/tree/master/0594-longest-harmonious-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/aakashmaity/code-with-akash/tree/master/3618-find-the-original-typed-string-ii) |
 <!---LeetCode Topics End-->
