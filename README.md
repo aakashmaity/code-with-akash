@@ -38,6 +38,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [2202-sum-of-k-mirror-numbers](https://github.com/aakashmaity/code-with-akash/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/aakashmaity/code-with-akash/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/aakashmaity/code-with-akash/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/aakashmaity/code-with-akash/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/aakashmaity/code-with-akash/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aakashmaity/code-with-akash/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Backtracking
@@ -145,6 +146,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [2132-convert-1d-array-into-2d-array](https://github.com/aakashmaity/code-with-akash/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/aakashmaity/code-with-akash/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3533-snake-in-matrix](https://github.com/aakashmaity/code-with-akash/tree/master/3533-snake-in-matrix) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/aakashmaity/code-with-akash/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -192,6 +194,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [0136-single-number](https://github.com/aakashmaity/code-with-akash/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/aakashmaity/code-with-akash/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/aakashmaity/code-with-akash/tree/master/0268-missing-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/aakashmaity/code-with-akash/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
 | ------- |
@@ -243,4 +246,8 @@ Create a folder for the topic you wish to contribute in and add the respective f
 |  |
 | ------- |
 | [3618-find-the-original-typed-string-ii](https://github.com/aakashmaity/code-with-akash/tree/master/3618-find-the-original-typed-string-ii) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/aakashmaity/code-with-akash/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
