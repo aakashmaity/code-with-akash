@@ -10,9 +10,13 @@ class Solution {
                 mp.put(k, 1);
             }
         }
-        int ans=-1;
-        for(int key : mp.keySet()){
-            if(key == mp.get(key) && key > ans){
+        // for (int n : arr) {
+        //     mp.put(n, mp.getOrDefault(n, 0) + 1);
+        // }
+        int ans = -1;
+        for (int key : mp.keySet()) {
+            // System.out.println(key + " " + mp.get(key));
+            if (key == mp.get(key)) {
                 ans = key;
             }
         }
