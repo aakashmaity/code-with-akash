@@ -57,6 +57,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aakashmaity/code-with-akash/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/aakashmaity/code-with-akash/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/aakashmaity/code-with-akash/tree/master/0837-most-common-word) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/aakashmaity/code-with-akash/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aakashmaity/code-with-akash/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2035-count-sub-islands](https://github.com/aakashmaity/code-with-akash/tree/master/2035-count-sub-islands) |
 | [2107-find-unique-binary-string](https://github.com/aakashmaity/code-with-akash/tree/master/2107-find-unique-binary-string) |
@@ -83,6 +84,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [0594-longest-harmonious-subsequence](https://github.com/aakashmaity/code-with-akash/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/aakashmaity/code-with-akash/tree/master/0837-most-common-word) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aakashmaity/code-with-akash/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/aakashmaity/code-with-akash/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2107-find-unique-binary-string](https://github.com/aakashmaity/code-with-akash/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aakashmaity/code-with-akash/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/aakashmaity/code-with-akash/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -111,6 +113,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/aakashmaity/code-with-akash/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/aakashmaity/code-with-akash/tree/master/0837-most-common-word) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/aakashmaity/code-with-akash/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aakashmaity/code-with-akash/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/aakashmaity/code-with-akash/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aakashmaity/code-with-akash/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
