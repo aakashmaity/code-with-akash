@@ -59,6 +59,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [0837-most-common-word](https://github.com/aakashmaity/code-with-akash/tree/master/0837-most-common-word) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aakashmaity/code-with-akash/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aakashmaity/code-with-akash/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aakashmaity/code-with-akash/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/aakashmaity/code-with-akash/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2035-count-sub-islands](https://github.com/aakashmaity/code-with-akash/tree/master/2035-count-sub-islands) |
 | [2107-find-unique-binary-string](https://github.com/aakashmaity/code-with-akash/tree/master/2107-find-unique-binary-string) |
@@ -157,6 +158,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aakashmaity/code-with-akash/tree/master/0070-climbing-stairs) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aakashmaity/code-with-akash/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/aakashmaity/code-with-akash/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aakashmaity/code-with-akash/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/aakashmaity/code-with-akash/tree/master/3618-find-the-original-typed-string-ii) |
@@ -178,6 +180,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [0268-missing-number](https://github.com/aakashmaity/code-with-akash/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/aakashmaity/code-with-akash/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aakashmaity/code-with-akash/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aakashmaity/code-with-akash/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aakashmaity/code-with-akash/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/aakashmaity/code-with-akash/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aakashmaity/code-with-akash/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -192,6 +195,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | [0374-guess-number-higher-or-lower](https://github.com/aakashmaity/code-with-akash/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/aakashmaity/code-with-akash/tree/master/0441-arranging-coins) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aakashmaity/code-with-akash/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aakashmaity/code-with-akash/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/aakashmaity/code-with-akash/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/aakashmaity/code-with-akash/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Bit Manipulation
