@@ -164,6 +164,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 | ------- |
 | [0070-climbing-stairs](https://github.com/aakashmaity/code-with-akash/tree/master/0070-climbing-stairs) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aakashmaity/code-with-akash/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/aakashmaity/code-with-akash/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/aakashmaity/code-with-akash/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aakashmaity/code-with-akash/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/aakashmaity/code-with-akash/tree/master/3618-find-the-original-typed-string-ii) |
@@ -228,6 +229,7 @@ Create a folder for the topic you wish to contribute in and add the respective f
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aakashmaity/code-with-akash/tree/master/0070-climbing-stairs) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/aakashmaity/code-with-akash/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/aakashmaity/code-with-akash/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Union Find
 |  |
