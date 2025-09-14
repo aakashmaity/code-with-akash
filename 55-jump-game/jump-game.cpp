@@ -5,8 +5,8 @@ public:
     {
         if(pos==n)
             return true;
-        if(pos>n)
-            return false;
+        // if(pos>n)
+        //     return false;
         
         if(dp[pos]!= -1)
             return dp[pos];
